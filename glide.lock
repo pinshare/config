@@ -1,0 +1,11 @@
+hash: c01a5980f827982a708602fa1f1bcf02e92bed751556c88e75adfb28aa686dd9
+updated: 2017-05-12T19:26:01.383943097+09:00
+imports:
+- name: github.com/BurntSushi/toml
+  version: 99064174e013895bbd9b025c31100bd1d9b590ca
+- name: github.com/ziutek/mymysql
+  version: 1d19cbf98d83564cc561192ae7d7183d795f7ac7
+  subpackages:
+  - mysql
+  - native
+testImports: []
